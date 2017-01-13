@@ -1,2 +1,2 @@
 # Set Digital Vibrance For Games
-Set Digital Vibrance in any game
+A autohotkey scritp to set Digital Vibrance in any game
